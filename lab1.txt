@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lab1
 test
 conflict
