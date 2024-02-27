@@ -1,4 +1,4 @@
-<<<<<<< HEAD
-lab1
+
+la changed
+
 test
-conflict
